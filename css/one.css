@@ -163,7 +163,7 @@ body {
 /* End Header */
 /* start lainding */
 .landing {
-   background-image: url(/imges/img.jpg);
+   background-image: url(/HYML-CSS-ONE-ALON/imges/img.jpg);
    background-size: cover;
    height: calc(100vh - 68px);
    position: relative;
